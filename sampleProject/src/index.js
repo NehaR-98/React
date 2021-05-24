@@ -7,38 +7,27 @@ class MainApp extends Component{
       data : [
           {
             "id": "1",
-            "name": "Batman",
-            "power": "47",
-            "full-name": "Bruce Wayne",
-            "url": "images/batman.jpg"
+            "name": "Agra",
+            "full-name": "Taj Mahal",
+            "url": "images/tajmahal.jpg"
           },
           {
             "id": "2",
-            "name": "Ant-Man",
-            "power": "53",
-            "full-name": "Scott Lang",
-            "url": "images/antman.jpg"
+            "name": "Delhi",
+            "full-name": "Red Fort",
+            "url": "images/redfort.jpg"
           },
           {
             "id": "3",
-            "name": "Scarlet Witch",
-            "power": "100",
-            "full-name": "Wanda Maximoff",
-            "url": "images/scarletwitch.jpg"
+            "name": "Amritsar",
+            "full-name": "Golden Temple",
+            "url": "images/goldentemple.jpg"
           },
           {
             "id": "4",
-            "name": "Deadpool",
-            "power": "100",
-            "full-name": "Wade Wilson",
-            "url": "images/deadpool.jpg"
-          },
-          {
-            "id": "5",
-            "name": "Captain Marvel",
-            "power": "100",
-            "full-name": "Carol Danvers",
-            "url": "images/captainmarvel.jpg"
+            "name": "Karnataka",
+            "full-name": "Coorg",
+            "url": "images/coorg.jpg"
           }
         ]
       
