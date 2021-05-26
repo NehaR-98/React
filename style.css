@@ -1,0 +1,58 @@
+.logo{
+    width: 100px;
+    height: 80px;
+}
+.header{
+    height: 100vh;
+}
+.navbar-style{
+    box-shadow: 0px 5px 10px darkgray;
+    text-transform: uppercase;
+    
+}
+.icon-bar{
+    background: darksalmon;
+}
+
+li a{
+    color: dodgerblue;
+}
+.big-text{
+    font-size: 52px;
+    margin: 10px;
+    color: dodgerblue;
+   
+}
+a.btn{
+    margin: 10px;
+    width: 200px;
+    padding: 10px;
+    border-radius: 20px;
+    border: 2px solid dodgerblue;
+}
+.btn-first{
+    background-color: dodgerblue;
+    color: floralwhite;
+   
+}
+.btn-second{
+    
+    background-color:floralwhite;
+    color: dodgerblue;
+    
+}
+a.btn:hover{
+    background-color:  rgb(44, 158, 173);
+}
+/* .banner-info, .banner-image{
+    margin: 30px;
+} */
+.page-footer{
+    background-color: lightblue;
+    
+    color: blue;
+}
+.para{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:  rgb(60, 139, 192);
+}
